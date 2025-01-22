@@ -4,8 +4,8 @@
 #### 1. Clone the repository
 First, clone this repository to your local machine:
 ```
-git clone https://github.com/Sithum-Bimsara/LangChain-Chatbot-with-OpenAI-and-Ollama-LLMs.git
-cd LangChain-Chatbot-with-OpenAI-and-Ollama-LLMs
+git clone https://github.com/Sithum-Bimsara/Generative-AI-Experiments-with-Gemini-AIs.git
+cd enerative-AI-Experiments-with-Gemini-AIs
 ```
 #### 2. Create a Virtual Environment
 If you haven't already created a virtual environment (venv), follow these steps to set it up:
